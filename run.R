@@ -4,7 +4,7 @@ library(shinythemes)
 library(data.table)
 library(RCurl)
 library(randomForest)
-library(caret)
+
 
 port <- Sys.getenv('PORT')
 
